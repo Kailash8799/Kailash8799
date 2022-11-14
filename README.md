@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks of Javascript and Data structures**
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://kailash8799.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
 
 - 📫 How to reach me **kailashrajput8799@gmail.com**
 
