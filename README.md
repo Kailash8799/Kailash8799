@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kailash Rajput</h1>
 <h3 align="center">A Webdeveloper and Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh9106&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh9106" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kailash8799&label=Profile%20views&color=0e75b6&style=flat" alt="kailash8799" /> </p>
 
 - 🌱 I’m currently learning **Frameworks of Javascript and Data structures**
 
@@ -11,13 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kailash-rajput-9b559422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshdarji9106" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thekailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisnilesh_3" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kailash8799" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nilesh2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nilesh_28_2003" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nilesh2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nilesh_2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kailashrajput8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nileshdarji282003/profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kailash-rajput-9b559422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thekailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kailash8799" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kailash8799" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Kailash8799" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kailash8799" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kailash8799" height="30" width="40" /></a>
+<a href="https://leetcode.com/kailash8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kailash8799" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kailashrajput8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Kailash8799" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
