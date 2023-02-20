@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kailash8799&label=Profile%20views&color=0e75b6&style=flat" alt="kailash8799" /> </p>
 
-- 🌱 I’m currently learning **Frameworks of Java and Data structures**
+- 🌱 I’m currently learning **Frameworks of Java and Data structures **
  
 - 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
 
