@@ -3,7 +3,7 @@
   
 
 - 🌱 I’m currently learning **Frameworks of Java and Data structures **
- 
+
 - 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
  
 - 📫 How to reach me **kailashrajput8799@gmail.com**
