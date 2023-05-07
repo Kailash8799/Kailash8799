@@ -2,7 +2,7 @@
 <h3 align="center">A Webdeveloper and Competitive Programmer</h3>
    
 
-- 🌱 I’m currently learning **Frameworks of Java and Data structures **
+- 🌱 I’m currently learning **Frameworks of Java **
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
  
