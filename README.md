@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
  
 - 📫 How to reach me **kailashrajput8799@gmail.com**
-  
+   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kailash-rajput-9b559422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kailash" height="30" width="40" /></a>
