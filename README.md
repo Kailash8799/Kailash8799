@@ -33,4 +33,6 @@
 &nbsp; ![Kailash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailash8799&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailash8799&theme=dark" alt="kailash8799" /></p>
  
- 
+ <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
