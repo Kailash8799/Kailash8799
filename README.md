@@ -22,6 +22,8 @@
 - 👨‍💻 All of my projects are available at [My portfolio](https://kailashrajput.netlify.com)
  
 - 📫 How to reach me **kailashrajput8799@gmail.com**
+
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1v3RExXEK9scOT2oeRb07lytITQ_gEbCn/view?usp=sharing)
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
